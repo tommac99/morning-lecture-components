@@ -1,0 +1,15 @@
+.trip-card {
+  width: 300px;
+  background: #fff;
+}
+
+.trip-card img {
+  width: 100%;
+}
+
+.trip-card-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 20px;
+}

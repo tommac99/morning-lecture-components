@@ -1,0 +1,26 @@
+.container {
+  width: 800px;
+  margin: 0 auto;
+  /*background: purple;*/
+}
+
+@media (max-width: 900px) {
+  .container {
+    width: 660px;
+    /*background: red;*/
+  }
+}
+
+@media (max-width: 700px) {
+  .container {
+    width: 500px;
+    /*background: orange;*/
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 300px;
+    /*background: yellow;*/
+  }
+}
